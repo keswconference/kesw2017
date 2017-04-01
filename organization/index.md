@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Organization committee
-published: true
+layout: page
 ---
 
 **General Chair:** Przemyslaw Różewski, West Pomeranian University of Technology in Szczecin, Poland

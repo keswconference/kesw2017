@@ -1,6 +1,5 @@
 ---
 layout: frontpage
-title:
 ---
 
 <p class="text-center"><strong>International Conference on Knowledge Engineering and Semantic Web</strong></p>
