@@ -1,0 +1,67 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text-center { text-align: center; }
+.text-justify { text-align: justify; }
+.text-bold { font-weight: bold; }
+
+.keynote-photo {
+    width: 200px;
+    float:left;
+    margin: 10px;
+}
+
+/*****************************************************************************/
+/*
+/* Program table
+/*
+/*****************************************************************************/
+.program td {
+	color: black;
+	padding: 5px;
+	text-align: center;
+}
+
+.program .white {text-align: left; background-color: white !important;}
+.program .day {
+	font-weight: bold;
+	background-color: white !important;
+}
+.program .time {background-color: white !important;}
+.program .chair {text-align: left; background-color: white !important;}
+.program .keynote {background-color: #F4CCCC !important;}
+.program .sponsored-keynote {background-color: #f4aacc !important;}
+.program .poster {background-color: #FFF2CC !important;}
+.program .poster-session {background-color: #D9EAD3 !important}
+.program .paper {background-color: #CFE2F3 !important;}
+.program .award {background-color: #EA9999 !important;}
+
+.program.legend {border:0;}
+.program.legend td {border: 0;}
+.program.legend tbody {border: 0;}
+
+/******************************************************************************/
+/*
+/* Program members
+/*
+/******************************************************************************/
+
+#pc td {
+    background-color: white !important;
+}
+#pc td.name {text-align: center; min-width: 30%; }
+#pc td.affiliation {text-align: center;}
+
+.news .highlighted {
+    font-size: 100% !important;
+    font-weight: bold;
+}

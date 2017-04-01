@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="{{ site.url }}/favicon.ico" type="image/png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta property="og:image" content="{{ site.url }}/resources/kesw_logo_big.png">
+    <meta property="og:title" content="{{ page.title }} | KESW 2017">
+
+    <title>
+        {% if page.title %}
+        {{ page.title }} |
+        {% endif %}
+        {{ site.name }}
+    </title>
+
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/style_1.css" media="all"/>
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/themes/default/css/style_4.css" media="all"/>
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/main.css" media="all"/>
+
+    <script type="text/javascript" src="{{ site.url }}/js/js_1.js"></script>
+    <script type="text/javascript" src="{{ site.url }}/js/js_2.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Google Analytics -->
+    <!--
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-71568701-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    -->
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+    		"@context" : "http://schema.org",
+    		"@type" : "Event",
+    		"name" : "International Conference on Knowledge Engineering and Semantic Web 2017",
+    		"alternateName": "KESW 2017",
+    		"url": "http://kesw.cz/",
+    		"duration": "P3D",
+    		"startDate" : "2016-09-21T09:00",
+    		"location" : {
+    			"@type" : "Place",
+                "name" : "CTU FEE in Prague",
+                "telephone": "+420 22435 1111",
+    			"address" : {
+    				"@type" : "PostalAddress",
+                    "postalCode" : "12135",
+                    "streetAddress" : "Karlovo náměstí 13",
+    				"addressLocality" : "Prague",
+    				"addressCountry" : "CZ"
+    			}
+    		},
+            "offers" : {
+            	"@type" : "Offer",
+                "url" : "http://2017.kesw.ru/register/",
+                "price" : "50",
+                "priceCurrency": "EUR"
+            },
+    		"image" : "{{ site.url }}/resources/kesw_logo.png",
+    		"description" : "KESW 2017 will be the 8th conference in the series. KESW is a top international event, this year taking place in the Czech Republic, and is dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English."
+    	}
+    </script>
+</head>
+
+<body class="front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2 node-type-page color-palette-dark-rust header-font-sans-serif body-font-sans-serif sidebar-right">
+
+{% include header.html %}
+
+{% include menu.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+</html>

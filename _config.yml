@@ -1,10 +1,27 @@
----
-title: KESW2017
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# ----
+# General metadata
+
+name: KESW 2017 Conference
+url: http://2017.kesw.ru
+
+conference:
+  shortname: KESW 2017
+  number: 8
+  year: 2017
+
+# ----
+# Build
+
+markdown: kramdown
+safe: true
+encoding: UTF-8
+exclude: []
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+
+gist:
+ noscript: false
+kramdown:
+ math_engine: mathjax
