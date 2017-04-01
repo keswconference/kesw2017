@@ -12,16 +12,6 @@ conference:
 # ----
 # Build
 
-markdown: kramdown
 safe: true
 encoding: UTF-8
 exclude: []
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-
-gist:
- noscript: false
-kramdown:
- math_engine: mathjax
