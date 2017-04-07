@@ -67,6 +67,25 @@ title: Call for papers
 * Trust, security, and privacy
 * Knowledge and data visualization
 
+### OPEN SCIENCE AND EDUCATION TRACK
+
+<p class="text-justify">This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions which explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:</p>
+
+**Semantic Web and education**
+
+* Opening and linking educational data
+* Ontology models and semantic standards for educational data
+* Visual analytics for educational resources represented using semantic technologies
+* Teaching semantic technologies
+* System descriptions and best practices in linked learning
+
+**Open Science**
+
+* Open Access to Scientific Publications
+* Open Scientific Data
+* Infrastructure for Open Scientific Data
+* Open Research Methodology
+
 ### SYSTEM DESCRIPTIONS
 
 <p class="text-justify">We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.</p>
