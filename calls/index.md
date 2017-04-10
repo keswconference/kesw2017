@@ -100,9 +100,9 @@ title: Call for papers
 
 ### POSTERS AND POSITION PAPERS
 
-<p class="text-justify">In addition to oral paper presentations KESW 2017 encourages other forms of contributing to the conference, in particular, posters and position papers.</p>
+<p class="text-justify">In addition to oral paper presentations KESW encourages other forms of contributing to the conference, in particular, posters and position papers.</p>
 
-<p class="text-justify">Posters is an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!</p>
+<p class="text-justify">Posters form an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!</p>
 
 <p class="text-justify">Position papers are means of presenting preliminary research ideas or proposals. They are particularly suitable for early stage PhD students who would like to discuss their ideas and get feedback before they go deep developing them.</p>
 
