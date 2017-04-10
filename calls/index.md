@@ -11,27 +11,27 @@ title: Call for papers
 
 <p class="text-justify">The research track welcomes novel papers addressing theoretical, applied, and empirical aspects of research. Topics of interest include but are not limited to:</p>
 
-**Scalable Data Access**
+#### Scalable Data Access
 
 * Question Answering
 * Big Linked Data processing
 * Natural­Language generation
 * Benchmarks for Semantic Web Frameworks
 
-**Ontologies and controlled vocabularies**
+#### Ontologies and controlled vocabularies
 
 * Logical and philosophical foundations of ontology management
 * Merging and alignment
 * Modularity, collaborative engineering and exchange
 * Using ontologies for modeling scientific knowledge
 
-**Linked Data**
+#### Linked Data
 
 * Publishing and integrating
 * Querying and consuming
 * Linked Open Data
 
-**Natural language processing and Semantic Web**
+#### Natural language processing and Semantic Web
 
 * Information extraction and content analysis
 * Document clustering and classification
@@ -39,7 +39,7 @@ title: Call for papers
 * Semantic-based information retrieval
 * Controlled natural languages
 
-**Knowledge representation and reasoning**
+#### Knowledge representation and reasoning
 
 * Knowledge acquisition and management
 * Knowledge graphs
@@ -47,19 +47,19 @@ title: Call for papers
 * Practical algorithms and optimizations
 * Applications
 
-**Storage Solutions for the Semantic Web**
+#### Storage Solutions for the Semantic Web
 
 * RDF and other NoSQL databases for managing Linked Data
 * Ontologies and databases
 * Data integration
 * Query answering
 
-**Semantic technologies in industry**
+#### Semantic technologies in Industry
 
 * Reports on experience of using semantic technologies in industry
 * Challenges of practical deployments
 
-**Other Topics (not limited to)**
+#### Other Topics (not limited to)
 
 * Cognitive aspects of semantic technologies
 * Human Computer Interaction
@@ -85,7 +85,7 @@ title: Call for papers
 
 <p class="text-justify">All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via <a href="https://easychair.org/conferences/?conf=kesw2017">EasyChair</a>.</p>
 
-**Size restrictions**
+#### Size restrictions
 
 * Research, industry, and educational tracks: 15 pages including references.
 * System description papers: 10 pages including references.
@@ -97,14 +97,14 @@ title: Call for papers
 
 All deadlines are for the Hawaii time zone.
 
-**Full papers and system descriptions**
+#### Full papers and system descriptions
 
 * Abstract submission: **TBD**
 * Full paper submission: **TBD**
 * Author notification: **TBD**
 * Camera-ready submission: **TBD**
 
-**Posters and position papers**
+#### Posters and position papers
 
 * Accepted on a rolling basis (that is, submit when you feel like it but don't wait till late since we can close the page if we get too many).
 
