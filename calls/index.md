@@ -13,10 +13,9 @@ title: Call for papers
 
 **Scalable Data Access**
 
-* Question Answering
 * Big Linked Data processing
-* Natural­Language generation
-* Benchmarks for Semantic Web Frameworks
+* Benchmarks for Semantic Web frameworks
+* Enabling humans to interact with big datasets (e.g. by natural language interfaces or visualization; see below)
 
 **Ontologies and controlled vocabularies**
 
@@ -27,9 +26,9 @@ title: Call for papers
 
 **Linked Data**
 
-* Publishing and integrating
-* Querying and consuming
-* Linked Open Data
+* Publishing and integrating linked data
+* Querying and consuming linked data
+* Facilitating data reuse both technically and legally (Linked Open Data)
 
 **Natural language processing and Semantic Web**
 
@@ -38,6 +37,15 @@ title: Call for papers
 * Opinion mining and sentiment analysis
 * Semantic-based information retrieval
 * Controlled natural languages
+* Question Answering
+* Natural language generation
+
+**Human Computer Interaction**
+
+* Interaction with linked data by spoken and written natural language (see also above)
+* Knowledge and data visualization
+* Cognitive aspects of semantic technologies
+* Usability and user experience evaluations
 
 **Knowledge representation and reasoning**
 
@@ -56,16 +64,15 @@ title: Call for papers
 
 **Semantic technologies in industry**
 
+* Data value chains; products and services based on data
+* Semantic technologies for the Internet of Things
 * Reports on experience of using semantic technologies in industry
 * Challenges of practical deployments
 
 **Other Topics (not limited to)**
 
-* Cognitive aspects of semantic technologies
-* Human Computer Interaction
 * Semantic Social Web
 * Trust, security, and privacy
-* Knowledge and data visualization
 
 ### OPEN SCIENCE AND EDUCATION TRACK
 
@@ -85,6 +92,7 @@ title: Call for papers
 * Open Scientific Data
 * Infrastructure for Open Scientific Data
 * Open Research Methodology
+* Opening up scholarly communication
 
 ### SYSTEM DESCRIPTIONS
 
