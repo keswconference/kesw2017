@@ -3,7 +3,7 @@ layout: page
 title: Call for papers
 ---
 
-<p class="text-justify">The International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators, in particular from the regions underrepresented at the major ISWC and ESWC conferences (e.g., Eastern Europe, ex­USSR, and the Middle East) topresent and share ideas related to the Semantic Web, and popularize the area in these regions.</p>
+<p class="text-justify">The International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators, in particular from the regions underrepresented at the major ISWC and ESWC conferences (e.g., Eastern Europe, ex­USSR, and the Middle East) to present and share ideas related to the Semantic Web, and popularize the area in these regions.</p>
 
 <blockquote><p class="text-justify">As usual, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English.</p></blockquote>
 
@@ -69,7 +69,7 @@ title: Call for papers
 
 ### OPEN SCIENCE AND EDUCATION TRACK
 
-<p class="text-justify">This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions which explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:</p>
+<p class="text-justify">This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions that explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:</p>
 
 **Semantic Web and education**
 
@@ -88,7 +88,7 @@ title: Call for papers
 
 ### SYSTEM DESCRIPTIONS
 
-<p class="text-justify">We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.</p>
+<p class="text-justify">We invite submissions that describe architecture, design, implementation, or experiments with existing systems using semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.</p>
 
 ### POSTERS AND POSITION PAPERS
 
