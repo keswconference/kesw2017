@@ -3,7 +3,7 @@ layout: page
 title: Call for papers
 ---
 
-<p class="text-justify">The International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators, in particular from the regions underrepresented at the major ISWC and ESWC conferences (e.g., Eastern and Northern Europe, ex­USSR, and the Middle East) topresent and share ideas related to the Semantic Web, and popularize the area in these regions.</p>
+<p class="text-justify">The International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators, in particular from the regions underrepresented at the major ISWC and ESWC conferences (e.g., Eastern Europe, ex­USSR, and the Middle East) to present and share ideas related to the Semantic Web, and popularize the area in these regions.</p>
 
 <blockquote><p class="text-justify">As usual, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English.</p></blockquote>
 
@@ -13,10 +13,9 @@ title: Call for papers
 
 #### Scalable Data Access
 
-* Question Answering
 * Big Linked Data processing
-* Natural­Language generation
-* Benchmarks for Semantic Web Frameworks
+* Benchmarks for Semantic Web frameworks
+* Enabling humans to interact with big datasets (e.g. by natural language interfaces or visualization; see below)
 
 #### Ontologies and controlled vocabularies
 
@@ -27,9 +26,9 @@ title: Call for papers
 
 #### Linked Data
 
-* Publishing and integrating
-* Querying and consuming
-* Linked Open Data
+* Publishing and integrating linked data
+* Querying and consuming linked data
+* Facilitating data reuse both technically and legally (Linked Open Data)
 
 #### Natural language processing and Semantic Web
 
@@ -38,6 +37,15 @@ title: Call for papers
 * Opinion mining and sentiment analysis
 * Semantic-based information retrieval
 * Controlled natural languages
+* Question Answering
+* Natural language generation
+
+**Human Computer Interaction**
+
+* Interaction with linked data by spoken and written natural language (see also above)
+* Knowledge and data visualization
+* Cognitive aspects of semantic technologies
+* Usability and user experience evaluations
 
 #### Knowledge representation and reasoning
 
@@ -56,26 +64,45 @@ title: Call for papers
 
 #### Semantic technologies in Industry
 
+* Data value chains; products and services based on data
+* Semantic technologies for the Internet of Things
 * Reports on experience of using semantic technologies in industry
 * Challenges of practical deployments
 
 #### Other Topics (not limited to)
 
-* Cognitive aspects of semantic technologies
-* Human Computer Interaction
 * Semantic Social Web
 * Trust, security, and privacy
-* Knowledge and data visualization
+
+### OPEN SCIENCE AND EDUCATION TRACK
+
+<p class="text-justify">This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions that explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:</p>
+
+**Semantic Web and education**
+
+* Opening and linking educational data
+* Ontology models and semantic standards for educational data
+* Visual analytics for educational resources represented using semantic technologies
+* Teaching semantic technologies
+* System descriptions and best practices in linked learning
+
+**Open Science**
+
+* Open Access to Scientific Publications
+* Open Scientific Data
+* Infrastructure for Open Scientific Data
+* Open Research Methodology
+* Opening up scholarly communication
 
 ### SYSTEM DESCRIPTIONS
 
-<p class="text-justify">We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.</p>
+<p class="text-justify">We invite submissions that describe architecture, design, implementation, or experiments with existing systems using semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.</p>
 
 ### POSTERS AND POSITION PAPERS
 
-<p class="text-justify">In addition to oral paper presentations KESW 2017 encourages other forms of contributing to the conference, in particular, posters and position papers.</p>
+<p class="text-justify">In addition to oral paper presentations KESW encourages other forms of contributing to the conference, in particular, posters and position papers.</p>
 
-<p class="text-justify">Posters is an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!</p>
+<p class="text-justify">Posters form an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!</p>
 
 <p class="text-justify">Position papers are means of presenting preliminary research ideas or proposals. They are particularly suitable for early stage PhD students who would like to discuss their ideas and get feedback before they go deep developing them.</p>
 
@@ -91,7 +118,7 @@ title: Call for papers
 * System description papers: 10 pages including references.
 * Posters and position papers: 2 page abstract.
 
-<blockquote><p class="text-justify">We strongly encourage all authors to prepare their submissions according to the <a href="http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0">Springer LNCS</a> format. This will be strictly enforced for all accepted papers. Contact Axel Ngonga (PC Chair) if this becomes a show stopper.</p></blockquote>
+<blockquote><p class="text-justify">We strongly encourage all authors to prepare their submissions according to the <a href="http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0">Springer LNCS</a> format. This will be strictly enforced for all accepted papers. Contact Christoph Lange (PC Chair) if this becomes a show stopper.</p></blockquote>
 
 ### IMPORTANT DATES
 
