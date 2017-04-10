@@ -118,7 +118,7 @@ title: Call for papers
 * System description papers: 10 pages including references.
 * Posters and position papers: 2 page abstract.
 
-<blockquote><p class="text-justify">We strongly encourage all authors to prepare their submissions according to the <a href="http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0">Springer LNCS</a> format. This will be strictly enforced for all accepted papers. Contact Axel Ngonga (PC Chair) if this becomes a show stopper.</p></blockquote>
+<blockquote><p class="text-justify">We strongly encourage all authors to prepare their submissions according to the <a href="http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0">Springer LNCS</a> format. This will be strictly enforced for all accepted papers. Contact Christoph Lange (PC Chair) if this becomes a show stopper.</p></blockquote>
 
 ### IMPORTANT DATES
 
