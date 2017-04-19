@@ -40,7 +40,7 @@ title: Call for papers
 * Question Answering
 * Natural language generation
 
-**Human Computer Interaction**
+#### Human Computer Interaction
 
 * Interaction with linked data by spoken and written natural language (see also above)
 * Knowledge and data visualization
