@@ -78,7 +78,7 @@ title: Call for papers
 
 <p class="text-justify">This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions that explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:</p>
 
-**Semantic Web and education**
+#### Semantic Web and Education
 
 * Opening and linking educational data
 * Ontology models and semantic standards for educational data
@@ -86,7 +86,7 @@ title: Call for papers
 * Teaching semantic technologies
 * System descriptions and best practices in linked learning
 
-**Open Science**
+#### Open Science
 
 * Open Access to Scientific Publications
 * Open Scientific Data
