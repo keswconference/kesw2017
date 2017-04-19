@@ -17,7 +17,7 @@ title: Call for papers
 * Benchmarks for Semantic Web frameworks
 * Enabling humans to interact with big datasets (e.g. by natural language interfaces or visualization; see below)
 
-#### Ontologies and controlled vocabularies
+#### Ontologies and Controlled Vocabularies
 
 * Logical and philosophical foundations of ontology management
 * Merging and alignment
@@ -30,7 +30,7 @@ title: Call for papers
 * Querying and consuming linked data
 * Facilitating data reuse both technically and legally (Linked Open Data)
 
-#### Natural language processing and Semantic Web
+#### Natural Language Processing and Semantic Web
 
 * Information extraction and content analysis
 * Document clustering and classification
@@ -47,7 +47,7 @@ title: Call for papers
 * Cognitive aspects of semantic technologies
 * Usability and user experience evaluations
 
-#### Knowledge representation and reasoning
+#### Knowledge Representation and Reasoning
 
 * Knowledge acquisition and management
 * Knowledge graphs
@@ -62,7 +62,7 @@ title: Call for papers
 * Data integration
 * Query answering
 
-#### Semantic technologies in Industry
+#### Semantic Technologies in Industry
 
 * Data value chains; products and services based on data
 * Semantic technologies for the Internet of Things
