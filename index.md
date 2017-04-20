@@ -31,10 +31,10 @@ title:
 <blockquote>
 <h4>IMPORTANT DATES</h4>
 <ul>
-    <li>Abstract submission: <b>TBD</b></li>
-    <li>Full paper submission: <b>TBD</b></li>
-    <li>Author notification: <b>TBD</b></li>
-    <li>Camera-ready submission: <b>TBD</b></li>
+    <li>Abstract submission: <b>Monday, 5 June 2017</b></li>
+    <li>Full paper submission: <b>Monday, 19 June 2017</b></li>
+    <li>Author notification: <b>Thursday, 3 August 2017</b></li>
+    <li>Camera-ready submission: <b>Monday, 21 August 2017</b></li>
     <li>Early registration: <b>TBD</b></li>
     <li>Late registration: <b>TBD</b></li>
     <li>Conference dates: <b>November 08 – 10, 2017</b></li>
