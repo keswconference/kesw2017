@@ -112,7 +112,7 @@ title: Call for papers
 
 <p class="text-justify">All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via <a href="https://easychair.org/conferences/?conf=kesw2017">EasyChair</a>.</p>
 
-#### Size restrictions
+#### Size and format restrictions
 
 * Research, industry, and educational tracks: 15 pages including references.
 * System description papers: 10 pages including references.
