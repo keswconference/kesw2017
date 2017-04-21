@@ -8,10 +8,11 @@ title: Organization committee
 **Program Chair:** [Christoph Lange](https://langec.wordpress.com/about/), University of Bonn, Germany
 
 **Local organisation team:**
+
   * Magdalena Kieruzel, West Pomeranian University of Technology in Szczecin, Poland
   * Wojciech Sałabun, West Pomeranian University of Technology in Szczecin, Poland
   * Tomasz Lipczynski, West Pomeranian University of Technology in Szczecin, Poland
-
+<br/>
 **Web Presence:** [Maxim Kolchin](http://kolchinmax.ru), ITMO University, Russia
 
 ### Program committee
