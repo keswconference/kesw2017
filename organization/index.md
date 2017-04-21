@@ -12,6 +12,7 @@ title: Organization committee
   * Magdalena Kieruzel, West Pomeranian University of Technology in Szczecin, Poland
   * Wojciech Sałabun, West Pomeranian University of Technology in Szczecin, Poland
   * Tomasz Lipczynski, West Pomeranian University of Technology in Szczecin, Poland
+
 <br/>
 **Web Presence:** [Maxim Kolchin](http://kolchinmax.ru), ITMO University, Russia
 
