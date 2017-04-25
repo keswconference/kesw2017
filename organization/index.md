@@ -3,7 +3,7 @@ layout: page
 title: Organization committee
 ---
 
-**General Chair:** [Przemyslaw Różewski](http://www.prozewski.zut.edu.pl/2), West Pomeranian University of Technology in Szczecin, Poland
+**General Chair:** [Przemyslaw Różewski](http://www.prozewski.zut.edu.pl/), West Pomeranian University of Technology in Szczecin, Poland
 
 **Program Chair:** [Christoph Lange](https://langec.wordpress.com/about/), University of Bonn, Germany
 
