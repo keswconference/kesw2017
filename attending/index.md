@@ -1,42 +1,48 @@
 ---
 layout: page
-title: Attending KESW 2016
+title: Attending KESW 2017
 ---
 
 ## Venue
 
-<p class="text-justify">KESW 2016 will be hosted on the campus of the <a href="https://www.cvut.cz/en/">Czech Technical University in Prague</a> at Karlovo náměstí, Prague, Czech Republic. The venue features recently reconstructed halls in the Czech Technical University's historical complex near the city center.</p>
+<p class="text-justify">KESW 2017 will be hosted on the <a href="https://innowacje.zut.edu.pl">Regional Centre for Innovation and Technology Transfer</a> at Szczecin, Poland.</p>
 
 More information on the [following page](/venue/).
 
-## Travel information
+## Accommodation
 
-### By plane
+<p class="text-justify">Szczecin offers many varied accommodations adjusted to definite needs.</p>
 
-The easiest way to reach the conference venue is flying to the [Václav Havel Airport Prague](http://www.prg.aero/en/), located at the outskirts of Prague. Public transportation can then be used to reach the city center, see [here](http://www.dpp.cz/en/public-transit-to-prague-airport), in about 30 minutes.
+More information on the [following page](/accommodation/)
 
-### By train
+## Travel
 
-Prague can also be reached using international trains. The central station is located directly in city center.
+### Distance from the airport:
 
-## Visa information
+  * Szczecin-Goleniow Airport (Lotnisko, PL): 48 km (flights from London, Warsaw, Bergen, Oslo, Dublin and Stavanger)
+  * Berlin Airports (DE): 130 km (all destinations)
 
-If necessary, the organizers are able to provide official invitation letters for already registered conference participants.
+### Shuttle bus from the airports 
 
-### EU and US citizens
+Tickets booking on-line or via phone (www.interglobus.pl, bus stop at “Szczecin PKP” (railway station):
 
-EU and US citizens do not need visa to visit the Czech Republic. Citizens of the Schengen area are even not required to have passports to travel to the Czech Republic.
+  * Szczecin-Goleniów Airport (Lotnisko, PL): ca. 10€ return ticket
+  * Berlin Airports (Tegel or Schonefeld, DE): ca. 25€ return ticket
 
-### Russian citizens
+### Bus from the railway station:
 
-Russian citizens need visa in order to visit the Czech Republic. Short term visa ("Schengen visa") can be used to attend the conference. More information about visa support can be found at [http://www.mzv.cz/moscow/ru/index.html](http://www.mzv.cz/moscow/ru/index.html).
+  * Direct city bus no. 87 from the railway station “Szczecin Główny PKP” to “Plac Szarych Szeregów” (5th stop, direction: Podbórz), than 5 min. walk 
+  
+Please see map [here](https://goo.gl/maps/bH7LJLajcXD2). Tickets can be purchased from tickets machines or press stands (3 PLN one way).
 
-### Other non-EU and non-US citizens
+### Taxi services in Szczecin:
 
-Citizens of other states requiring visa to visit the Czech Republic, please consult the web of the [Czech Ministry of Foreign Affairs](http://www.mzv.cz/jnp/).
+  * Taxi 4 You: +48 91 4 833833
+  * Euro Taxi: +48 91 4 343434
+  * City Taxi: +48 91 4 335335
 
-In order to request an official invitation letter, please, email the organizers.
+Please call the taxi instead of picking one at the Railway station available on the street! Uber is not available in Szczecin
 
-To avoid uncertainty, participants are advised to apply for a visa as early as possible. In general, it is recommended that they apply for a Schengen visa at least 4 weeks in advance and no less than 15 days before travelling.
+### Parking: 
 
-[List of Czech embassies/consulates abroad](https://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_the_Czech_Republic)
+Free parking at the venue

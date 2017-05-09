@@ -27,16 +27,16 @@
 #-
 #  label: Program
 #  path: /program/
-#-
-#  label: Attending
-#  path: /attending/
-#  children:
-#    -
-#      label: Venue
-#      path: /venue/
-#    -
-#      label: Accommodation
-#      path: /accommodation/
+-
+  label: Attending
+  path: /attending/
+  children:
+    -
+      label: Venue
+      path: /venue/
+    -
+      label: Accommodation
+      path: /accommodation/
 #-
 #  label: Keynotes
 #  path: /keynotespeakers/
