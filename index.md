@@ -43,3 +43,13 @@ title:
 
 <p class="text-justify"><i>All deadlines are for the Hawaii time zone.</i></p>
 </blockquote>
+
+<hr/>
+
+<div class="partners">
+    <h2>Partners</h2>
+    <div class="partner">
+        <a href="http://www.pszw.edu.pl"><img width="204px"
+                                          src="{{ site.url }}/resources/pszw_logo.png"/></a>
+    </div>
+</div>
