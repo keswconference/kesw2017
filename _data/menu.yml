@@ -5,10 +5,10 @@
 -
   label: News
   path: /news/
-#-
-#  label: Registration
-#  path: /registration/
-#  children:
+-
+  label: Registration
+  path: /registration/
+  children:
 #    -
 #      label: Register Here!
 #      path: /registration/main
