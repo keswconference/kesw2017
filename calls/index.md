@@ -126,10 +126,10 @@ All deadlines are for the Hawaii time zone, 23:59.
 
 #### Full papers and system descriptions
 
-* Abstract submission: Monday, 5 June 2017
-* Full paper submission: Monday, 19 June 2017
-* Author notification: Thursday, 3 August 2017
-* Camera-ready submission: Monday, 21 August 2017
+* Abstract submission: Monday, 10 July 2017 ~~5 June~~
+* Full paper submission: Monday, 17 July 2017 ~~19 June~~
+* Author notification: Monday, 14 August 2017 ~~3 August~~
+* Camera-ready submission: Monday, 28 August 2017 ~~21 August~~
 
 #### Posters and position papers
 
