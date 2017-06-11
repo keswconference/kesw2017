@@ -5,7 +5,7 @@ title: Organization committee
 
 **General Chair:** [Przemyslaw Różewski](http://www.prozewski.zut.edu.pl/), West Pomeranian University of Technology in Szczecin, Poland
 
-**Program Chair:** [Christoph Lange](https://langec.wordpress.com/about/), University of Bonn, Germany
+**Program Chair:** [Christoph Lange](https://langec.wordpress.com/about/), University of Bonn and Fraunhofer IAIS, Germany
 
 **Local organisation team:**
 
@@ -18,4 +18,17 @@ title: Organization committee
 
 ### Program committee
 
-**TBA**
+<table id="pc">
+{% for member in site.data.pc %}
+    <tr>
+        <td class="name" width="30%">
+            {%if member.page %}
+                <a href="{{ member.page }}">{{ member.name }}</a>
+            {% else %}
+                {{ member.name }}
+            {% endif%}
+        </td>
+        <td class="affiliation" width="70%">{{ member.affiliation }}</td>
+    </tr>
+{% endfor %}
+</table>
