@@ -137,7 +137,7 @@ All deadlines are for the Hawaii time zone, 23:59.
 
 ### PROCEEDINGS
 
-<p class="text-justify">KESW proceedings are traditionally published in Springer's Communications in Computer and Information Science (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus.</p>
+<p class="text-justify">KESW proceedings are traditionally published in <a href="http://www.springer.com/series/7899">Springer's Communications in Computer and Information Science (CCIS) series</a>. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus.</p>
 
 ### PARTICIPATION
 
