@@ -1,7 +1,7 @@
-# -
-#     name: Alessandro Adamou
-#     page: http://kmi.open.ac.uk/people/member/alessandro-adamou
-#     affiliation: Knowledge Media Institute, The Open University, UK
+-
+    name: Alessandro Adamou
+    page: http://kmi.open.ac.uk/people/member/alessandro-adamou
+    affiliation: Knowledge Media Institute, The Open University, UK
 -
     name: Sören Auer
     page: http://eis.iai.uni-bonn.de/SoerenAuer
@@ -38,10 +38,10 @@
 #     name: Ujwal	Gadiraju
 #     page: http://www.l3s.de/en/vcard/id/ujwal-kumar/
 #     affiliation: L3S Research Center, Germany
-# -
-#     name: Kleanthi Georgala
-#     page: http://aksw.org/KleanthiGeorgala.html
-#     affiliation: Universität Leipzig, Germany
+-
+    name: Kleanthi Georgala
+    page: http://aksw.org/KleanthiGeorgala.html
+    affiliation: Universität Leipzig, Germany
 -
     name: Peter Haase
     page: http://www.metaphacts.com/company
@@ -66,10 +66,10 @@
     name: Dmitry Ignatov
     page: http://www.hse.ru/en/staff/dima
     affiliation: National Research University Higher School of Economics, Russia
-# -
-#     name: Vladimir Ivanov
-#     page: http://kpfu.academia.edu/VladimirIvanov
-#     affiliation: Kazan Federal University, Russia
+-
+    name: Vladimir Ivanov
+    page: https://www.researchgate.net/profile/Vladimir_Ivanov23
+    affiliation: Innopolis University, Russia
 # -
 #     name: Valentina	Ivanova
 #     page: http://www.ida.liu.se/~valiv/
@@ -78,10 +78,10 @@
     name: Natalya Keberle
     page: http://ermolayev.com/eva_personal/kng.htm
     affiliation: Zaporizhzhya National University, Ukraine
-# -
-#     name: Evgeny Kharlamov
-#     page: http://www.cs.ox.ac.uk/people/evgeny.kharlamov/
-#     affiliation: University of Oxford, UK
+-
+    name: Evgeny Kharlamov
+    page: http://www.cs.ox.ac.uk/people/evgeny.kharlamov/
+    affiliation: University of Oxford, UK
 -
     name: Alexander Kirillovich
     page: https://www.researchgate.net/profile/Alexander_Kirillovich
@@ -116,8 +116,8 @@
     affiliation: Dept. of Cybernetics, Czech Technical University in Prague, Czechia
 -
     name: Dmitry Kudryavtsev
-    page: http://www.linkedin.com/profile/view?id=17582861
-    affiliation: Business Engineering Group, St. Petersburg State Polytechnical University, Russia
+    page: http://gsom.spbu.ru/en/gsom/faculty/fulltime/kudryavcev/
+    affiliation: Graduate School of Management, St. Petersburg University, Russia
 -
     name: Oliver Kutz
     page: http://www.inf.unibz.it/~okutz/
@@ -186,10 +186,14 @@
     name: Tzanina Saveta
     page: https://scholar.google.com/citations?user=VZ3NntUAAAAJ&hl=en
     affiliation: ICS-FORTH, Greece
-# -
-#     name: Marvin Schiller
-#     page: http://www.marvin-schiller.de/
-#     affiliation: University of Ulm, Germany
+-
+    name: Marvin Schiller
+    page: http://www.marvin-schiller.de/
+    affiliation: University of Ulm, Germany
+-
+    name: Kuldeep Singh
+    page: http://eis.iai.uni-bonn.de/Kuldeep_Singh
+    affiliation: University of Bonn and Fraunhofer IAIS, Germany
 # -
 #     name: Daria	Stepanova
 #     page: http://www.kr.tuwien.ac.at/staff/dasha/
@@ -198,10 +202,14 @@
 #     name: Lauren Stuart
 #     page: https://www.cerias.purdue.edu/site/people/students/view/1232
 #     affiliation: Purdue University, USA
-# -
-#     name: Julia	Taylor
-#     page: http://web.ics.purdue.edu/~taylo108/index.html
-#     affiliation: Purdue University, USA
+-
+    name: Wojtek Sylwestrzak
+    page: https://www.researchgate.net/profile/Wojtek_Sylwestrzak
+    affiliation: Institute of Computer Science, Warsaw University of Technology, Poland
+-
+    name: Julia	Taylor
+    page: http://web.ics.purdue.edu/~taylo108/index.html
+    affiliation: Purdue University, USA
 -
     name: Ioan Toma
     page: https://sites.google.com/site/ioantoma/
