@@ -6,6 +6,10 @@
     name: Sören Auer
     page: http://eis.iai.uni-bonn.de/SoerenAuer
     affiliation: University of Bonn and Fraunhofer IAIS, Germany
+-
+    name: Ina Blümel
+    page: http://f3.hs-hannover.de/personen/lehrende/bluemel-ina-dr-v-profin/index.html
+    affiliation: German National Library of Science and Technology (TIB), Hannover, Germany
 # -
 #     name: Long Cheng
 #     page: http://lat.inf.tu-dresden.de/~lcheng/
@@ -42,6 +46,10 @@
     name: Peter Haase
     page: http://www.metaphacts.com/company
     affiliation: metaphacts, Germany
+-
+    name: Lavdim Halilaj
+    page: http://eis.iai.uni-bonn.de/Lavdim
+    affiliation: University of Bonn and Fraunhofer IAIS, Germany
 -
     name: Ali Hasnain
     page: https://www.insight-centre.org/users/ali-hasnain
@@ -174,10 +182,10 @@
     name: Muhammad Saleem
     page: http://aksw.org/MuhammadSaleem.html
     affiliation: AKSW, University Of Leizpig, Germany
-# -
-#     name: Tzanina Saveta
-#     page: https://scholar.google.com/citations?user=VZ3NntUAAAAJ&hl=en
-#     affiliation: ICS-FORTH, Greece
+-
+    name: Tzanina Saveta
+    page: https://scholar.google.com/citations?user=VZ3NntUAAAAJ&hl=en
+    affiliation: ICS-FORTH, Greece
 # -
 #     name: Marvin Schiller
 #     page: http://www.marvin-schiller.de/
