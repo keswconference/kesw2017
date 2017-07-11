@@ -7,6 +7,9 @@ Author notification: Monday, 14 August 2017
 Camera-ready submission: Monday, 28 August 2017
 Submission: https://easychair.org/conferences/?conf=kesw2017
 
+Proceedings in Springer CCIS
+Revised and extended best papers invited to MDPI Information
+
 Call for papers: http://2017.kesw.ru/calls/
 
 The International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators to present and share ideas related to the Semantic Web, and popularize the area in particular in regions underrepresented at the major Semantic Web conferences. As usual, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English. This year, we’ll have 4 tracks, of which the topics for submissions will include but will not be limited to
