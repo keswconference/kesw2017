@@ -10,10 +10,10 @@
     name: Ina Blümel
     page: http://f3.hs-hannover.de/personen/lehrende/bluemel-ina-dr-v-profin/index.html
     affiliation: German National Library of Science and Technology (TIB), Hannover, Germany
-# -
-#     name: Long Cheng
-#     page: http://lat.inf.tu-dresden.de/~lcheng/
-#     affiliation: Technische Universität Dresden, Germany
+-
+    name: Long Cheng
+    page: http://www.win.tue.nl/~lcheng/
+    affiliation: Eindhoven University of Technology, The Netherlands
 -
     name: Jeremy Debattista
     page: http://eis.iai.uni-bonn.de/JeremyDebattista.html
@@ -30,6 +30,10 @@
     name: Ralph Ewerth
     page: https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth/
     affiliation: Leibniz University, Hannover, Germany
+-
+    name: André Freitas
+    page: http://andrefreitas.org/
+    affiliation: University of Passau, Germany
 -
     name: Irini Fundulaki
     page: https://www.ics.forth.gr/isl/index_main.php?l=e&c=542
@@ -75,6 +79,10 @@
 #     page: http://www.ida.liu.se/~valiv/
 #     affiliation: Linköping University, Sweden
 -
+    name: Ernesto Jimenez-Ruiz
+    page: http://www.mn.uio.no/ifi/english/people/aca/ernestoj/
+    affiliation: University of Oslo, Norway
+-
     name: Natalya Keberle
     page: http://ermolayev.com/eva_personal/kng.htm
     affiliation: Zaporizhzhya National University, Ukraine
@@ -98,10 +106,10 @@
     name: Andrea Kohlhase
     page: https://www.hs-neu-ulm.de/andrea-kohlhase/
     affiliation: University of Applied Sciences Neu-Ulm, Germany
-# -
-#     name: Boris	Konev
-#     page: http://www.csc.liv.ac.uk/~konev/
-#     affiliation: University of Liverpool, UK
+-
+    name: Boris	Konev
+    page: http://www.csc.liv.ac.uk/~konev/
+    affiliation: University of Liverpool, UK
 -
     name: Roman	Kontchakov
     page: http://www.dcs.bbk.ac.uk/~roman
@@ -196,8 +204,9 @@
     affiliation: University of Bonn and Fraunhofer IAIS, Germany
 # -
 #     name: Daria	Stepanova
-#     page: http://www.kr.tuwien.ac.at/staff/dasha/
-#     affiliation: Vienna University of Technology, Austria
+#     ^ She would be happy to do it again in 2018
+#     page: http://people.mpi-inf.mpg.de/~dstepano/
+#     affiliation: Max Planck Institute for Informatics, Saarbrücken, Germany
 # -
 #     name: Lauren Stuart
 #     page: https://www.cerias.purdue.edu/site/people/students/view/1232
@@ -231,9 +240,16 @@
     page: http://ustalov.imm.uran.ru/
     affiliation: Ural Federal University, Russia / Lappeenranta University of Technology, Finland
 -
+    name: Jarosław Wątróbski
+    affiliation: West Pomeranian University of Technology in Szczecin, Poland
+-
     name: Amrapali Zaveri
     page: http://aksw.org/AmrapaliZaveri
     affiliation: Maastricht University, The Netherlands
+-
+    name: Oleg Zaikin
+    page: https://www.researchgate.net/profile/Oleg_Zaikin
+    affiliation: Warsaw School of Computer Science, Poland
 -
     name: Dmitriy Zheleznyakov
     page: http://www.cs.ox.ac.uk/people/dmitriy.zheleznyakov/
