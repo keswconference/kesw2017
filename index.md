@@ -31,7 +31,7 @@ title:
 <blockquote>
 <h4>IMPORTANT DATES</h4>
 <ul>
-    <li>Abstract submission: <b>Monday, 10 July 2017</b> <s>5 June</s></li>
+    <!-- <li>Abstract submission: <b>Monday, 10 July 2017</b> <s>5 June</s></li> -->
     <li>Full paper submission: <b>Monday, 17 July 2017</b> <s>19 June</s></li>
     <li>Author notification: <b>Monday, 14 August 2017</b> <s>3 August</s></li>
     <li>Camera-ready submission: <b>Monday, 28 August 2017</b> <s>21 August </s></li>
