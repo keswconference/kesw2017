@@ -35,8 +35,8 @@ title:
     <li>Full paper submission: <b>Monday, 17 July 2017</b> <s>19 June</s></li>
     <li>Author notification: <b>Monday, 14 August 2017</b> <s>3 August</s></li>
     <li>Camera-ready submission: <b>Monday, 28 August 2017</b> <s>21 August </s></li>
-    <li>Early registration: <b>TBD</b></li>
-    <li>Late registration: <b>TBD</b></li>
+    <li>Early registration: <b>Friday, September 15, 2017</b></li>
+    <li>Late registration: <b>Tuesday, November 7, 2017</b></li>
     <li>Conference dates: <b>November 08 – 10, 2017</b></li>
 </ul>
 
