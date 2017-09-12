@@ -3,13 +3,13 @@ layout: page
 title: Registration Information
 ---
 
-Everybody who attends the conference must register and pay the correct fee. Instructions on how to register for 
-the conference are provided here and a list of fees and charges is provided further down the page.
+<p class="text-justify">Everybody who attends the conference must register and pay the correct fee. Instructions on how to register for 
+the conference are provided here and a list of fees and charges is provided further down the page.</p>
 
 ## Registration Fees
 
 <table>
-    <tr><th>Date of registration</th><th>Regular fee</th><th>Academic fee</th><th>Student fee</th></tr>
+    <tr><th>Date of registration</th><th>Regular fee</th><th>Academic fee</th><th>Student fee<br/>Poster (position paper)<br/>Attendance without paper</th></tr>
     <tr><td>Early (until September 15, 2017)</td><td>€300</td><td>€200</td><td>€100</td></tr>
     <tr><td>Late (until November 7, 2017)</td><td>€350</td><td>€250</td><td>€150</td></tr>
     <tr><td>On-site (from November 8-10, 2017)</td><td>€450</td><td>€300</td><td>€250</td></tr>
@@ -18,14 +18,14 @@ the conference are provided here and a list of fees and charges is provided furt
 ## How to Register
 
 Registration for the conference is through the [registration form](/resources/KESW_2017_RegistrationForm.doc)
-and has to be send to [registration@kesw.ru](mailto:registration@kesw.ru). 
+and has to be send to [registration@kesw.ru](mailto:registration@kesw.ru).
 
-We will send you confirmation by email when we have received your registration form.
+<p class="text-justify">We will send you confirmation by email when we have received your registration form.</p>
 
 ## Payment by Bank Transfer
 
-Please read the following instructions if you intend to make payment by bank transfer. The payment of the conference fee 
-should be done by bank transfer:
+<p class="text-justify">Please read the following instructions if you intend to make payment by bank transfer. The payment of the conference fee 
+should be done by bank transfer:</p>
 
 <blockquote>
     <ul>
@@ -39,13 +39,12 @@ should be done by bank transfer:
     </ul>
 </blockquote>
 
-You must ensure that the ‘KESW 2017’ appears in the PAYMENT REFERENCE field of the bank transfer form. Please also ensure 
-that the FROM field contains the DELEGATE NAME. 
+<p class="text-justify">You must ensure that the ‘KESW 2017’ appears in the PAYMENT REFERENCE field of the bank transfer form. Please also ensure 
+that the FROM field contains the DELEGATE NAME.</p>
 
-Please ensure that you pay any charges you bank may charge. If we do not 
-receive the full amount due before the early registration deadline the full late rate may become payable. 
+<p class="text-justify">Please ensure that you pay any charges you bank may charge. If we do not receive the full amount due before the early registration deadline the full late rate may become payable.</p>
 
-We will send you confirmation by email when we have received your payment and your registration is complete. 
+<p class="text-justify">We will send you confirmation by email when we have received your payment and your registration is complete.</p>
 
 ## Regular / Academic Registration
 
