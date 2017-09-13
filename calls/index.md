@@ -133,7 +133,8 @@ All deadlines are for the Hawaii time zone, 23:59.
 
 #### Posters and position papers
 
-* Accepted on a rolling basis (that is, submit when you feel like it but don't wait till late since we can close the page if we get too many).
+* Submission: Wednesday, 1 November 2017
+* Notification: on a rolling basis (first come first served – <a href="/registration">mind the early registration deadline</a>!)
 
 ### PROCEEDINGS
 
