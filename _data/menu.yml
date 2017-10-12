@@ -37,9 +37,9 @@
     -
       label: Accommodation
       path: /accommodation/
-#-
-#  label: Keynotes
-#  path: /keynotespeakers/
+-
+  label: Keynotes
+  path: /keynotespeakers/
 -
   label: Sponsoring
   path: /becomeasponsor/
