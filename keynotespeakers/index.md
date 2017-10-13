@@ -7,7 +7,7 @@ title: Keynote Speakers
 ### **[Maria Ganzha](http://pages.mini.pw.edu.pl/~ganzham)** 
 #### Warsaw University of Technology, Poland
 
-#### **Interoperability form semantic point of view**
+#### **Interoperability from semantic point of view**
 
 <img class="keynote-photo" src="/resources/MariaGanzha.jpg"/>
 
