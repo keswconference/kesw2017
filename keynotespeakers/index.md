@@ -24,11 +24,13 @@ title: Keynote Speakers
 ### **[Hans-Christian Brockmann](https://www.eccenca.com/en/company-about-us.html)** 
 #### eccenca GmbH & brox IT-Solutions GmbH, Germany
 
-#### **TBA**
+#### **A journey to cognitive supply networks of the future**
 
 <img class="keynote-photo" src="/resources/Hans-ChristianBrockmann.jpg"/>
 
-<p class="text-justify"><i>TBA</i></p>
+<p class="text-justify"><i>Digital collaboration has come a long way, but are we ready to achieve digital collaboration to the degree that analysts and experts are expecting? What are the prerequisites to industrial cross eco-system collaboration? What are pitfall, which dead ends have we already encountered?</i></p>
+                           
+<p class="text-justify"><i>A journey of industrial inter-company digitization and how two leading pioneers of communication are jointly embracing semantic standards to once again lead us to new frontiers they themselves call “the cognitive supply network”.</i></p>
 
 #### About the speaker
 
