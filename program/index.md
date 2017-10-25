@@ -3,372 +3,398 @@ layout: page
 title: The Program
 ---
 
-Best paper candidates are _emphasized_.
-
-PDF version of the program can be downloaded [here]({{ site.url }}/resources/program.pdf).
-
-
 <table class="program">
     <tbody>
         <tr>
-            <td class="day" colspan="2">Wednesday, September 21, 2016</td>
+            <td class="day" colspan="2">Wednesday, November 8, 2017</td>
         </tr>
         <tr>
             <td class="time">08:00-09:00</td>
-            <td>Conference Registration</td>
+            <td>Registration</td>
         </tr>
         <tr>
-            <td class="chair" colspan="2">Zenger Hall</td>
+            <td class="chair" colspan="2"></td>
         </tr>
         <tr>
              <td class="time">09:00-09:15</td>
-             <td><b>Opening and Introduction<br/><i>Petr Křemen</i></b></td>
+             <td>Opening and Introduction</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Knowledge and Information Extraction I</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Natural Language Processing (1)</b></td>
         </tr>
         <tr>
-            <td class="time">09:15-10:45</td>
-            <td class="chair"><b>Chair</b>: Boris Perušič</td>
+            <td class="time">09:15-11:00</td>
+            <td class="chair"><b>Chair</b>: TBA</td>
         </tr>
         <tr>
             <td class="time">09:15-09:45</td>
-                <td class="paper">
-                    <i><b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b></i><br/>
-                    <i><b>Erdem Emekligil</b>, <b>Secil Arslan</b> and Onur Agin</i>
-                </td>
-        </tr>
-        <tr>
-            <td class="time">09:45-10:15</td>
             <td class="paper">
-                <b>Thesaurus-based Method of Increasing Text-via-Keyphrase Graph Connectivity during Keyphrase Extraction for e-Tourism Applications</b><br/>
-                <i><b>Ilya Paramonov</b>, OKsenia Lagutina, Eldar Mamedov and Nadezhda Lagutina</i>
+                <b>Reducing the Degradation of Sentiment Analysis for Text Collections Spread over a Period of Time</b><br/>
+                <i>Yuliya Rubtsova</i>
             </td>
         </tr>
         <tr>
-            <td class="time">10:15-10:30</td>
-            <td class="poster">
-                <b>Family matters: company relations extraction from Wikipedia</b><br/>
-                <i>Artem Kuznetsov, Pavel Braslavski and <b>Vladimir Ivanov</b></i>
+            <td class="time">09:45-10:00</td>
+            <td class="paper">
+                <b>Searching for the Most Negative Opinions</b><br/>
+                <i>Sattam Almatarneh and Pablo Gamallo</i>
             </td>
         </tr>
         <tr>
-            <td class="time">10:30-10:45</td>
-            <td class="poster">
-                <b>A new operationalization of contrastive term extraction approach based on recognition of both representative and specific terms</b><br/>
-                <i>Aliya Nugumanova, <b>Igor Bessmertny</b>, Yerzhan Baiburin and Madina Mansurova</i>
+            <td class="time">10:00-10:30</td>
+            <td class="paper">
+                <b>Diversified Semantic Query Reformulation</b><br/>
+                <i>Rubén Manrique and Olga Mariño</b></i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:30-11:00</td>
+            <td class="paper">
+                <b>RuThes Cloud: Towards a Multilevel Linguistic Linked Open Data Resource for Russian</b><br/>
+                <i>Alexander Kirillovich, Olga Nevzorova, Emil Gimadiev and Natalia Loukachevitch</i>
             </td>
         </tr>        
         <tr>
-            <td class="time">10:45-11:15</td>
+            <td class="time">11:00-11:30</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
-             <td class="time">11:15-11:35</td>
+             <td class="time">11:30-12:30</td>
              <td class="sponsored-keynote">
-             <b>Ontology-based Information Extraction: A Few Practical Use Cases</b><br/>
-             <i><b>Boris Perušič</b>, Jakub Kozák (Datlowe)</i>
+             <b>Commercial presentations</b><br/>
+             <i>Sponsors</i>
              </td>
         </tr>
         <tr>
-            <td class="time">11:35-14:00</td>
+            <td class="time">12:30-14:00</td>
             <td>Lunch Break</td>
         </tr>             
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Ontologies I</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Natural Language Processing (2)</b></td>
         </tr>
         <tr>
             <td class="time">14:00-15:30</td>
-            <td class="chair"><b>Chair</b>: Dmitry Mouromtsev</td>
+            <td class="chair"><b>Chair</b>: TBA</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
             <td class="paper">
-                <b>Privacy in Online Social Networks: An Ontological Model for Self-Presentation</b><br/>
-                <i><b>Javed Ahmed</b></i>
+                <b>The Algorithm of Modelling and Analysis of Latent Semantic Relations: Linear Algebra vs. Probabilistic Topic Models</b><br/>
+                <i>Nina Rizun, Yurii Taranenko and Wojciech Waloszek</i>
             </td>
         </tr>
         <tr>
-            <td class="time">14:30-15:00</td>
-            <td class="paper">
-                <b>Design of an Ontologies for the exchange of Software Engineering data in the Aerospace Industry</b><br/>
-                <i><b>Ricardo Eito-Brun</b></i>
+            <td class="time">14:30-14:45</td>
+            <td class="poster">
+                <b>Discovering Relational Phrases for Qualia Roles through Open Information Extraction</b><br/>
+                <i>Giovanni Siragusa, Valentina Leone, Luigi Di Caro and Claudio Schifanella</i>
             </td>
         </tr>
         <tr>
-            <td class="time">15:00-15:30</td>
-            <td class="paper">
-                <b>Ontology-based information extraction for populating the Intelligent Scientific Internet Resources</b><br/>
-                <i><b>Irina Akhmadeeva</b>, Yury Zagorulko and <b>Dmitry Mouromtsev</b></i>
+            <td class="time">14:45-15:00</td>
+            <td class="poster">
+                <b>Probabilistic Topic Modelling for Controlled Snowball Sampling in Citation Network Collection</b><br/>
+                <i>Hennadii Dobrovolskyi, Nataliya Keberle and Olga Todoriko</i>
             </td>
-        </tr>   
+        </tr>
+        <tr>
+            <td class="time">15:00-15:15</td>
+            <td class="paper">
+                <b>Russian Tagging and Dependency Parsing Models for Stanford CoreNLP Natural Language Toolkit</b><br/>
+                <i>Liubov Kovriguina, Ivan Shilin, Alexander Shipilo and Alina Putintseva</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">15:15-15:30</td>
+            <td class="poster">
+                <b>Investigating the Relationship between Tweeting Style and Popularity: The Case of US Presidential Election 2016</b><br/>
+                <i>Farideh Tavazoee, Claudio Conversano and Francesco Mola</i>
+            </td>
+        </tr> 
         <tr>
             <td class="time">15:30-16:00</td>
             <td>Coffee Break</td>
-        </tr>
+        </tr>             
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Chair</b>: Petr Křemen</td>
-        </tr>        
-        <tr>
-             <td class="time">16:00-16:45</td>
-             <td class="keynote"><b>(Enterprise) Linked Data: What’s missing?<br/><i>Axel Polleres</i></b></td>
-        </tr>        
-        <tr>
-            <td class="chair">Zenger Hall</td>
+            <td class="chair"></td>
             <td class="chair"><b>Ontologies II</b></td>
         </tr>
         <tr>
-            <td class="time">16:45-17:45</td>
-            <td class="chair"><b>Chair</b>: Axel Polleres</td>
+            <td class="time">16:00-17:30</td>
+            <td class="chair"><b>Chair</b>: TBA</td>
         </tr>
         <tr>
-            <td class="time">16:45-17:15</td>
+            <td class="time">16:00-16:30</td>
             <td class="paper">
-                <b>User-driven Ontology Population from Linked Data Sources</b><br/>
-                <i><b>Panagiotis Mitzias</b>, Marina Riga, Efstratios Kontopoulos, Thanos Stavropoulos, Stelios Andreadis, Georgios Meditskos and Yiannis Kompatsiaris</i>
+                <b>RDF Updates with Constraints</b><br/>
+                <i>Mirian Halfeld-Ferrari, Carmem S. Hara and Flavio R. Uber</i>
             </td>
         </tr>
         <tr>
-            <td class="time">17:15-17:30</td>
-            <td class="poster">
-                <b>Ontological Anti-patterns in Aviation Safety Event Models</b><br/>
-                <i><b>Jana Ahmad</b> and <b>Petr Křemen</b></i>
+            <td class="time">16:30-17:00</td>
+            <td class="paper">
+                <b>Ephedra: Efficiently Combining RDF Data and Services Using SPARQL Federation</b><br/>
+                <i>Andriy Nikolov, Peter Haase, Johannes Trame and Artem Kozlov</i>
             </td>
         </tr>
         <tr>
-            <td class="time">17:30-17:45</td>
-            <td class="poster">
-                <b>Ontology for Performance Control in Service-Oriented System with Composite Services</b><br/>
-                <i><b>Maksim Khegai</b>, Dmitrii Zubok, Aleksandr Maiatin and Tatiana Kharchenko</i>
+            <td class="time">17:00-17:30</td>
+            <td class="paper">
+                <b>Managing Lifecycle of Big Data Applications</b><br/>
+                <i>Ivan Ermilov, Axel-Cyrille Ngonga Ngomo, Aad Versteden, Hajira Jabeen, Gezim Sejdiu, Giorgos Argyriou, Luigi Selmi, Jürgen Jakobitsch and Jens Lehmann</i>
             </td>
         </tr>        
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
         <tr>
-            <td class="day" colspan="2">Thursday, September 22, 2016</td>
+            <td class="day" colspan="2">Thursday, November 9, 2017</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Chair</b>: Petr Křemen</td>
+            <td class="chair"></td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
-             <td class="time">09:00-09:45</td>
-             <td class="keynote"><b>From Linked Data to Stories<br/><i>Lynda Hardman</i></b></td>
+             <td class="time">09:00-10:00</td>
+             <td class="keynote"><b>A journey to cognitive supply networks of the future</b><br/><i>Hans-Christian Brockmann</i></td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Knowledge and Information Extraction II</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Semantic Technologies in Manufacturing and Business</b></td>
         </tr>
         <tr>
-            <td class="time">09:45-10:45</td>
-            <td class="chair"><b>Chair</b>: Lynda Hardman</td>
+            <td class="time">10:00-10:30</td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
-            <td class="time">09:45-10:15</td>
+            <td class="time">10:00-10:15</td>
             <td class="paper">
-                <b>Identifying Product Failures from Reviews in Noisy Data by Distant Supervision</b><br/>
-                <i><b>Elena Tutubalina</b></i>
+                <b>ODERU: Optimisation of Semantic Service-Based Processes in Manufacturing</b><br/>
+                <i>Luca Mazzola, Patrick Kapahnke and Matthias Klusch</i>
             </td>
         </tr>
         <tr>
             <td class="time">10:15-10:30</td>
             <td class="poster">
-                <b>Elicitation Taxonomy for Acquiring Biodiversity Knowledge</b><br/>
-                <i><b>Andréa Corrêa Flôres Albuquerque</b>, Jose Laurindo Campos Dos Santos and Alberto Castro Junior</i>
+                <b>Why Enriching Business Transactions with Linked Open Data May Be Problematic in Classification Tasks</b><br/>
+                <i>Eirik Folkestad, Erlend Vollset, Marius Rise Gallala and Jon Atle Gulla</i>
             </td>
         </tr>
         <tr>
-            <td class="time">10:30-10:45</td>
-            <td class="poster">
-                <b>Semantic Knowledge Base: Quantiers and Multiplicity in Extended Semantic Networks Module</b><br/>
-                <i>Marek Krótkiewicz, <b>Krystian Wojtkiewicz</b>, Marcin Jodłowiec and Waldemar Pokuta</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">10:45-11:15</td>
+            <td class="time">10:30-11:00</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Data Management I</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
-            <td class="time">11:15-12:45</td>
-            <td class="chair"><b>Chair</b>: Petr Křemen</td>
+             <td class="time">11:00-12:00</td>
+             <td class="keynote"><b>Interoperability from semantic point of view</b><br/><i>Maria Ganzha</i></td>
         </tr>
         <tr>
-            <td class="time">11:15-11:45</td>
-            <td class="paper">
-                <b>RDF query and inference in Prolog</b><br/>
-                <i><b>Miguel Alves</b>, Carlos Viegas Damásio and Nuno Correia</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">11:45-12:15</td>
-            <td class="paper">
-                <b>An approach for structuring sound sample libraries using ontology</b><br/>
-                <i>Eugene Cherny, <b>Johan Lilius</b>, Johannes Brusila, Gleb Rogozinsky and <b>Dmitry Mouromtsev</b></i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:15-12:30</td>
-            <td class="poster">
-                <b>Efficient SPARQL to SQL translation with user defined mapping</b><br/>
-                <i><b>Miloš Chaloupka</b> and Martin Nečaský</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:30-12:45</td>
-            <td class="poster">
-                <b>Live or Stay?: Classifying Twitter Users into Residents and Visitors</b><br/>
-                <i><b>Masaharu Hirota</b>, Keisuke Saeki, <b>Yo Ehara</b> and <b>Hiroshi Ishikawa</b></i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:45-14:00</td>
+            <td class="time">12:00-14:00</td>
             <td>Lunch Break</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Data Management II</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Data Management I</b></td>
         </tr>
         <tr>
-            <td class="time">14:00-15:30</td>
-            <td class="chair"><b>Chair</b>: Miroslav Blaško</td>
+            <td class="time">14:00-16:00</td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
             <td class="paper">
-                <b>Comparison of different approaches for hotels deduplication</b><br/>
-                <i><b>Ivan Kozhevnikov</b> and <b>Vladimir Gorovoy</b></i>
+                <b>Temporal Reasoning with Non-convex Intervals</b><br/>
+                <i>Miguel Bento Alves, Carlos Viegas Damásio and Nuno Correia</i>
             </td>
         </tr>
         <tr>
             <td class="time">14:30-15:00</td>
             <td class="paper">
-                <b>Fostering Accessibility for OpenCourseWare with Semantic Technologies – a Literature Review</b><br/>
-                <i><b>Mirette Elias</b>, Steffen Lohmann and Sören Auer</i>
+                <b>More on the Data Complexity of Answering Ontology-Mediated Queries with a Covering Axiom</b><br/>
+                <i>Olga Gerasimova, Stanislav Kikot, Vladimir Podolskii and Michael Zakharyaschev</i>
             </td>
         </tr>
         <tr>
             <td class="time">15:00-15:30</td>
             <td class="paper">
-                <b>Nearest queries on distributed binary trees starting from a random node</b><br/>
-                <i><b>Francesco Gargiulo</b> and Flora Amato</i>
+                <b>QSMat: Query-Based Materialization for Efficient RDF Stream Processing</b><br/>
+                <i>Christian Mathieu, Matthias Klusch and Birte Glimm</i>
             </td>
         </tr>
         <tr>
             <td class="time">15:30-16:00</td>
+            <td class="paper">
+                <b>Employing Link Differentiation in Linked Data Semantic Distance</b><br/>
+                <i>Sultan Alfarhood, Susan Gauch and Kevin Labille</b></i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">16:00-16:30</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Chair</b>: Vojtěch Svátek</td>
-        </tr>                
-        <tr>
-             <td class="time">16:00-17:00</td>
-             <td class="keynote">
-                <b>Programming with Semantic Broad Data<br/>
-                <i>Steffen Staab</i></b><br/>
-                <i>(Collocated with <a href="http://www.praguecomputerscience.cz/">PIS</a>)</i>
-             </td>
+            <td class="chair"></td>
+            <td class="chair"><b>Poster/Demo Session</b></td>
         </tr>
         <tr>
-            <td class="time">17:00-18:00</td>
-            <td class="poster-session"><b>Poster Session</b></td>
+            <td class="time">16:30-18:00</td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
-            <td class="time">18:00</td>
-            <td>Meeting point for a walk to dinner</td>
-        </tr>
-        <tr>
-            <td class="time">19:30</td>
-            <td>
-                <b>KESW 2016 Dinner</b><br/>
-                Charles Bridge Restaurant<br/>
-                Smetanovo nábřeží 195<br/>
-                Prague 1, Old Town
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Applying Situation-Person-Driven Semantic Similarity On Location-Specific Cognitive Frames For Improving Location Prediction</b><br/>
+                <i>Antonios Karatzoglou and Michael Beigl</i>
             </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Word Segmentation Based on Constraint-Based Mutual Information for Chinese Word of Mouth Classification</b><br/>
+                <i>Chihli Hung</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Using Word Embeddings in Linked Data Search</b><br/>
+                <i>Gerhard Wohlgenannt, Nikolay Klimov, Dmitry Mouromtsev, Daniil Razdyakonov, Dmitry Pavlov and Yury Emelyanov</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>DALICC project: Search and conflict detection using automatic reasoning and legal expert knowledge.</b><br/>
+                <i>Victor Mireles, Simon Steyskal, Oleksandra Panasiuk, Kurt Moser, Markus Dörfler, Christoph Ellinger, Tassilo Pellegrini and Thomas Thurner</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Discovery of potential collaboration networks from open knowledge sources</b><br/>
+                <i>Nelson Piedra, Janneth Chicaiza, Jorge Lopez-Vargas and Edmundo Tovar</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Searching for the Most Negative Opinions</b><br/>
+                <i>Sattam Almatarneh and Pablo Gamallo</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Russian Tagging and Dependency Parsing Models for Stanford CoreNLP Natural Language Toolkit</b><br/>
+                <i>Liubov Kovriguina, Ivan Shilin, Alexander Shipilo and Alina Putintseva</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Towards the Semantic MOOC: Extracting, Enriching and Interlinking E-Learning Data in Open edX Platform</b><br/>
+                <i>Dmitry Volchek, Aleksei Romanov and Dmitry Mouromtsev</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Alignment: A Collaborative, System Aided, Interactive Ontology Matching Platform</b><br/>
+                <i>Sotirios Karampatakis, Charalampos Bratsas, Ondřej Zamazal, Panagiotis Marios Filippidis and Ioannis Antoniou</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>ODERU: Optimisation of Semantic Service-Based Processes in Manufacturing</b><br/>
+                <i>Luca Mazzola, Patrick Kapahnke and Matthias Klusch</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">19:30-23:00</td>
+            <td>Conference Dinner</td>
         </tr>
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
         <tr>
-            <td class="day" colspan="2">Friday, September 23, 2016</td>
+            <td class="day" colspan="2">Friday, November 10, 2017</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Chair</b>: Petr Křemen</td>
+            <td class="chair"></td>
+            <td class="chair"><b>Ontologies and Controlled Vocabularies</b></td>
         </tr>
         <tr>
-             <td class="time">09:00-09:45</td>
-             <td class="keynote"><b>Semantic Web and Machine Learning: Time to Re-sync<br/><i>Filip Železný</i></b></td>
+            <td class="time">09:30-10:30</td>
+            <td class="chair"><b>Chair</b>: TBA</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Data Management III</b></td>
-        </tr>
-        <tr>
-            <td class="time">09:45-10:45</td>
-            <td class="chair"><b>Chair</b>: Ricardo Usbeck</td>
-        </tr>
-        <tr>
-            <td class="time">09:45-10:15</td>
+            <td class="time">09:30-10:00</td>
             <td class="paper">
-                <i><b>Ethnicity Sensitive Author Disambiguation Using Semi-supervised Learning</b></i><br/>
-                <i>Gilles Louppe, <b>Hussein Al-Natsheh</b>, <b>Mateusz Susik</b> and Eamonn Maguire</i>
+                <i><b>Ontology for Representing Human Needs</b></i><br/>
+                <i>Soheil Human, Florian Fahrenbach, Florian Kragulj and Vadim Savenkov</i>
             </td>
         </tr>
         <tr>
-            <td class="time">10:15-10:45</td>
+            <td class="time">10:00-10:30</td>
             <td class="paper">
-                <b>Towards Flexible K-Anonymity</b><br/>
-                <i>Rima Kilany, Maria Sokhn and <b>Shaban Shabani</b></i>
+                <b>Knowledge Graph: Semantic Representation and Assessment of Innovation Ecosystems</b><br/>
+                <i>Klaus Ulmschneider and Birte Glimm</i>
             </td>
         </tr>
         <tr>
-            <td class="time">10:45-11:15</td>
+            <td class="time">10:30-11:00</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Applications</b></td>
+            <td class="chair"></td>
+            <td class="chair"><b>Semantic Web and Education</b></td>
         </tr>
         <tr>
-            <td class="time">11:15-12:45</td>
-            <td class="chair"><b>Chair</b>: Filip Železný</td>
+            <td class="time">11:00-11:45</td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
-            <td class="time">11:15-11:45</td>
+            <td class="time">11:00-11:30</td>
             <td class="paper">
-                <i><b>Designing modern enterprise search systems: the DIESEL case</b></i><br/>
-                <i><b>Ricardo Usbeck</b>, Michael Röder, Peter Haase, Artem Kozlov, Axel-Cyrille Ngonga Ngomo and Muhammad Saleem</i>
+                <b>Ontology-Based Representation of Learner Profiles for Accessible OpenCourseWare Systems</b><br/>
+                <i>Mirette Elias, Steffen Lohmann and Sören Auer</i>
             </td>
+        </tr>
+        <tr>
+            <td class="time">11:30-11:45</td>
+            <td class="paper">
+                <b>Towards the Semantic MOOC: Extracting, Enriching and Interlinking E-Learning Data in Open edX Platform</b><br/>
+                <i>Dmitry Volchek, Aleksei Romanov and Dmitry Mouromtsev</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="chair"></td>
+            <td class="chair"><b>Linked Data</b></td>
+        </tr>
+        <tr>
+            <td class="time">11:45-12:30</td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
             <td class="time">11:45-12:15</td>
             <td class="paper">
-                <b>An Ontology-based Collaborative Development of Domain Information Space for Learning and Scientific Research</b><br/>
-                <i><b>Anton Anikin</b>, Dmitry Litovkin, Marina Kultsova and Elena Sarkisova</i>
+                <b>DBpedia Entity Type Detection Using Entity Embeddings and N-Gram Models</b><br/>
+                <i>Hanqing Zhou, Amal Zouaq and Diana Inkpen</i>
             </td>
         </tr>
         <tr>
             <td class="time">12:15-12:30</td>
-            <td class="poster">
-                <b>Challenges of implementation and practical deployment of aviation safety knowledge management software</b><br/>
-                <i>Peter Vittek, <b>Andrej Lališ</b>, Slobodan Stojić and Vladimír Plos</i>
+            <td class="paper">
+                <b>Alignment: A Collaborative, System Aided, Interactive Ontology Matching Platform</b><br/>
+                <i>Sotirios Karampatakis, Charalampos Bratsas, Ondřej Zamazal, Panagiotis Marios Filippidis and Ioannis Antoniou</i>
             </td>
         </tr>
         <tr>
-            <td class="time">12:30-12:45</td>
-            <td class="poster">
-                <b>Medical knowledge representation for evaluation of patient’s state using complex indicators</b><br/>
-                <i>Nataly Zhukova, Mikhail Lushnov, Vyacheslav Kudashov, <b>Maxim Lapaev</b> and Denis Korobov</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:45-13:00</td>
-            <td><b>Closing</b></td>
+            <td class="time">12:30</td>
+            <td><b>Awards and Closing</b></td>
         </tr>
     </tbody>
 </table>
@@ -389,7 +415,7 @@ Legend:
         </tr>
         <tr>
             <td style="width: 85px;" class="paper"></td>
-            <td class="white">Full papers</td>
+            <td class="white">Full and System papers</td>
         </tr>
         <tr>
             <td style="width: 85px;" class="poster"></td>
@@ -397,7 +423,7 @@ Legend:
         </tr>
         <tr>
             <td style="width: 85px;" class="poster-session"></td>
-            <td class="white">Poster session</td>
+            <td class="white">Posters</td>
         </tr>
         <tr>
             <td style="width: 85px;"></td>
