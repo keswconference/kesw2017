@@ -49,7 +49,15 @@ title:
 <div class="partners">
     <h2>Partners</h2>
     <div class="partner">
-        <a href="http://www.pszw.edu.pl"><img width="204px"
-                                          src="{{ site.url }}/resources/pszw_logo.png"/></a>
+        <a href="http://www.pszw.edu.pl"><img width="204px" src="{{ site.url }}/resources/pszw_logo.png"/></a>
     </div>
+</div>
+
+
+<hr/><br/>
+
+<p class="text-center">Proceedings is be published by Springer as the <a href="https://link.springer.com/book/10.1007/978-3-319-69548-8">CCIS 786</a> volume.</p>
+
+<div class="text-center">
+    <a href="http://springer.com/"><img src="{{ site.url }}/resources/9783319695471.jpg" width="150px"/></a>
 </div>
