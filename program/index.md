@@ -316,7 +316,15 @@ title: The Program
         </tr>
         <tr>
             <td class="time">19:30-23:00</td>
-            <td>Conference Dinner</td>
+            <td>
+                <h3>Conference Dinner</h3>
+                
+                <p>Place: Willa Ogrody</p>
+                
+                <p>Address: 70-451 Szczecin, Wielkopolska 19, Poland</p>
+                
+                <p>Website: http://www.willa-ogrody.pl</p>
+            </td>
         </tr>
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
         <tr>
