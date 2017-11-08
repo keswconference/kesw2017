@@ -67,14 +67,18 @@ Best paper candidates are _emphasized_.
             <td>Coffee Break</td>
         </tr>
         <tr>
-             <td class="time">11:30-12:30</td>
+            <td class="chair"></td>
+            <td class="chair"><b>Commercial presentations</b></td>
+        </tr>
+        <tr>
+             <td class="time">11:30-12:00</td>
              <td class="sponsored-keynote">
              <b>Commercial presentations</b><br/>
              <i>Sponsors</i>
              </td>
         </tr>
         <tr>
-             <td class="time"></td>
+             <td class="time">12:00-12:30</td>
              <td class="sponsored-keynote">
              <b>SlideWiki</b><br/>
              <i>Fraunhofer IAIS (Christoph Lange)</i>
