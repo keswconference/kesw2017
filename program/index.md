@@ -327,6 +327,20 @@ Best paper candidates are _emphasized_.
             </td>
         </tr>
         <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Simplifying the Deployment of Big Data Solutions</b><br/>
+                <i>Ivan Ermilov and Axel-Cyrille Ngonga Ngomo</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Adaptive Knowledge Portal for Education Domain</b><br/>
+                <i>Mikhail Navrotskiy</i>
+            </td>
+        </tr>
+        <tr>
             <td class="time">19:30-23:00</td>
             <td>
                 <h3>Conference Dinner</h3>
