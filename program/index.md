@@ -330,9 +330,8 @@ Best paper candidates are _emphasized_.
             <td class="time">19:30-23:00</td>
             <td>
                 <h3>Conference Dinner</h3>
-                <p>Place: Willa Ogrody</p>
+                <p>Place: <a href="http://www.willa-ogrody.pl">Willa Ogrody</a></p>
                 <p>Address: 70-451 Szczecin, Wielkopolska 19, Poland</p>
-                <p>Website: http://www.willa-ogrody.pl</p>
             </td>
         </tr>
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
