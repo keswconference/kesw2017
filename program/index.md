@@ -22,8 +22,8 @@ Best paper candidates are _emphasized_.
              <td>Opening and Introduction</td>
         </tr>
         <tr>
-             <td></td>
-             <td>Prof. Jerzy Pejaś (Dean of Faculty of the Computer Science and Information Systems)<br/>
+             <td class="chair"></td>
+             <td class="chair">Prof. Jerzy Pejaś (Dean of Faculty of the Computer Science and Information Systems)<br/>
              Przemysław Różewski, Christoph Lange (KESW Chairs)</td>
         </tr>
         <tr>
