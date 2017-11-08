@@ -106,14 +106,14 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">14:30-14:45</td>
-            <td class="poster">
+            <td class="short-paper">
                 <b>Discovering Relational Phrases for Qualia Roles through Open Information Extraction</b><br/>
                 <i>Giovanni Siragusa, <b>Valentina Leone</b>, Luigi Di Caro and Claudio Schifanella</i>
             </td>
         </tr>
         <tr>
             <td class="time">14:45-15:00</td>
-            <td class="poster">
+            <td class="short-paper">
                 <b>Probabilistic Topic Modelling for Controlled Snowball Sampling in Citation Network Collection</b><br/>
                 <i><b>Hennadii Dobrovolskyi</b>, Nataliya Keberle and Olga Todoriko</i>
             </td>
@@ -127,7 +127,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">15:15-15:30</td>
-            <td class="poster">
+            <td class="short-paper">
                 <b>Investigating the Relationship between Tweeting Style and Popularity: The Case of US Presidential Election 2016</b><br/>
                 <i>Farideh Tavazoee, Claudio Conversano and Francesco Mola</i>
             </td>
@@ -194,7 +194,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">10:15-10:30</td>
-            <td class="poster">
+            <td class="short-paper">
                 <b>Why Enriching Business Transactions with Linked Open Data May Be Problematic in Classification Tasks</b><br/>
                 <i>Eirik Folkestad, Erlend Vollset, Marius Rise Gallala and Jon Atle Gulla</i>
             </td>
@@ -435,7 +435,7 @@ Legend:
             <td class="white">Full and System papers</td>
         </tr>
         <tr>
-            <td style="width: 85px;" class="poster"></td>
+            <td style="width: 85px;" class="short-paper"></td>
             <td class="white">Short papers</td>
         </tr>
         <tr>
