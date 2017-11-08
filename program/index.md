@@ -74,6 +74,20 @@ Best paper candidates are _emphasized_.
              </td>
         </tr>
         <tr>
+             <td class="time"></td>
+             <td class="sponsored-keynote">
+             <b>SlideWiki</b><br/>
+             <i>Fraunhofer IAIS (Christoph Lange)</i>
+             </td>
+        </tr>
+        <tr>
+             <td class="time"></td>
+             <td class="sponsored-keynote">
+             <b>Ontodia</b><br/>
+             <i>VISmart (Dmitry Mouromtsev)</i>
+             </td>
+        </tr>
+        <tr>
             <td class="time">12:30-14:00</td>
             <td>Lunch Break</td>
         </tr>             
