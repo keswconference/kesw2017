@@ -52,7 +52,7 @@ Best paper candidates are _emphasized_.
             <td class="time">10:00-10:30</td>
             <td class="paper">
                 <b>Diversified Semantic Query Reformulation</b><br/>
-                <i>Rubén Manrique and Olga Mariño</b></i>
+                <i>Rubén Manrique and Olga Mariño</i>
             </td>
         </tr>
         <tr>
