@@ -3,6 +3,7 @@ layout: page
 title: The Program
 ---
 
+Presenters are *highlighted*.
 Best paper candidates are _emphasized_.
 
 <table class="program">
@@ -74,14 +75,14 @@ Best paper candidates are _emphasized_.
              <td class="time">11:30-12:00</td>
              <td class="sponsored-keynote">
              <b>SlideWiki</b><br/>
-             <i>Fraunhofer IAIS (Christoph Lange)</i>
+             <i>Fraunhofer IAIS (<b>Christoph Lange</b>)</i>
              </td>
         </tr>
         <tr>
              <td class="time">12:00-12:30</td>
              <td class="sponsored-keynote">
              <b>Ontodia</b><br/>
-             <i>VISmart (Dmitry Mouromtsev)</i>
+             <i>VISmart (<b>Dmitry Mouromtsev</b>)</i>
              </td>
         </tr>
         <tr>
@@ -100,28 +101,28 @@ Best paper candidates are _emphasized_.
             <td class="time">14:00-14:30</td>
             <td class="paper">
                 <b>The Algorithm of Modelling and Analysis of Latent Semantic Relations: Linear Algebra vs. Probabilistic Topic Models</b><br/>
-                <i>Nina Rizun, Yurii Taranenko and Wojciech Waloszek</i>
+                <i><b>Nina Rizun</b>, Yurii Taranenko and Wojciech Waloszek</i>
             </td>
         </tr>
         <tr>
             <td class="time">14:30-14:45</td>
             <td class="poster">
                 <b>Discovering Relational Phrases for Qualia Roles through Open Information Extraction</b><br/>
-                <i>Giovanni Siragusa, Valentina Leone, Luigi Di Caro and Claudio Schifanella</i>
+                <i>Giovanni Siragusa, <b>Valentina Leone</b>, Luigi Di Caro and Claudio Schifanella</i>
             </td>
         </tr>
         <tr>
             <td class="time">14:45-15:00</td>
             <td class="poster">
                 <b>Probabilistic Topic Modelling for Controlled Snowball Sampling in Citation Network Collection</b><br/>
-                <i>Hennadii Dobrovolskyi, Nataliya Keberle and Olga Todoriko</i>
+                <i><b>Hennadii Dobrovolskyi</b>, Nataliya Keberle and Olga Todoriko</i>
             </td>
         </tr>
         <tr>
             <td class="time">15:00-15:15</td>
             <td class="paper">
                 <b>Russian Tagging and Dependency Parsing Models for Stanford CoreNLP Natural Language Toolkit</b><br/>
-                <i>Liubov Kovriguina, Ivan Shilin, Alexander Shipilo and Alina Putintseva</i>
+                <i><b>Liubov Kovriguina</b>, Ivan Shilin, Alexander Shipilo and Alina Putintseva</i>
             </td>
         </tr>
         <tr>
@@ -154,14 +155,14 @@ Best paper candidates are _emphasized_.
             <td class="time">16:30-17:00</td>
             <td class="paper">
                 <b>Ephedra: Efficiently Combining RDF Data and Services Using SPARQL Federation</b><br/>
-                <i>Andriy Nikolov, Peter Haase, Johannes Trame and Artem Kozlov</i>
+                <i><b>Andriy Nikolov</b>, Peter Haase, Johannes Trame and Artem Kozlov</i>
             </td>
         </tr>
         <tr>
             <td class="time">17:00-17:30</td>
             <td class="paper">
                 <b>Managing Lifecycle of Big Data Applications</b><br/>
-                <i>Ivan Ermilov, Axel-Cyrille Ngonga Ngomo, Aad Versteden, Hajira Jabeen, Gezim Sejdiu, Giorgos Argyriou, Luigi Selmi, Jürgen Jakobitsch and Jens Lehmann</i>
+                <i><b>Ivan Ermilov</b>, Axel-Cyrille Ngonga Ngomo, Aad Versteden, Hajira Jabeen, Gezim Sejdiu, Giorgos Argyriou, Luigi Selmi, Jürgen Jakobitsch and Jens Lehmann</i>
             </td>
         </tr>        
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
@@ -188,7 +189,7 @@ Best paper candidates are _emphasized_.
             <td class="time">10:00-10:15</td>
             <td class="paper">
                 <b>ODERU: Optimisation of Semantic Service-Based Processes in Manufacturing</b><br/>
-                <i>Luca Mazzola, Patrick Kapahnke and Matthias Klusch</i>
+                <i><b>Luca Mazzola</b>, Patrick Kapahnke and Matthias Klusch</i>
             </td>
         </tr>
         <tr>
@@ -240,7 +241,7 @@ Best paper candidates are _emphasized_.
             <td class="time">15:00-15:30</td>
             <td class="paper">
                 <b>QSMat: Query-Based Materialization for Efficient RDF Stream Processing</b><br/>
-                <i>Christian Mathieu, Matthias Klusch and Birte Glimm</i>
+                <i><b>Christian Mathieu</b>, Matthias Klusch and Birte Glimm</i>
             </td>
         </tr>
         <tr>
@@ -267,13 +268,6 @@ Best paper candidates are _emphasized_.
             <td class="poster-session">
                 <b>Applying Situation-Person-Driven Semantic Similarity On Location-Specific Cognitive Frames For Improving Location Prediction</b><br/>
                 <i>Antonios Karatzoglou and Michael Beigl</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time"></td>
-            <td class="poster-session">
-                <b>Word Segmentation Based on Constraint-Based Mutual Information for Chinese Word of Mouth Classification</b><br/>
-                <i>Chihli Hung</i>
             </td>
         </tr>
         <tr>
@@ -336,11 +330,8 @@ Best paper candidates are _emphasized_.
             <td class="time">19:30-23:00</td>
             <td>
                 <h3>Conference Dinner</h3>
-                
                 <p>Place: Willa Ogrody</p>
-                
                 <p>Address: 70-451 Szczecin, Wielkopolska 19, Poland</p>
-                
                 <p>Website: http://www.willa-ogrody.pl</p>
             </td>
         </tr>
