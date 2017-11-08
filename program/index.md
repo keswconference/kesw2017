@@ -23,8 +23,8 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
              <td class="chair"></td>
-             <td class="chair">Prof. Jerzy Pejaś (Dean of Faculty of the Computer Science and Information Systems)<br/>
-             Przemysław Różewski, Christoph Lange (KESW Chairs)</td>
+             <td class="chair"><i>Prof. Jerzy Pejaś (Dean of Faculty of the Computer Science and Information Systems)</i><br/>
+             <i>Przemysław Różewski, Christoph Lange (KESW Chairs)</i></td>
         </tr>
         <tr>
             <td class="chair"></td>
