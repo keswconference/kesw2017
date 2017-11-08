@@ -294,6 +294,20 @@ Best paper candidates are _emphasized_.
         <tr>
             <td class="time"></td>
             <td class="poster-session">
+                <b>Simplifying the Deployment of Big Data Solutions</b><br/>
+                <i>Ivan Ermilov and Axel-Cyrille Ngonga Ngomo</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
+                <b>Adaptive Knowledge Portal for Education Domain</b><br/>
+                <i>Mikhail Navrotskiy</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time"></td>
+            <td class="poster-session">
                 <b>Searching for the Most Negative Opinions</b><br/>
                 <i>Sattam Almatarneh and Pablo Gamallo</i>
             </td>
@@ -324,20 +338,6 @@ Best paper candidates are _emphasized_.
             <td class="poster-session">
                 <b>ODERU: Optimisation of Semantic Service-Based Processes in Manufacturing</b><br/>
                 <i>Luca Mazzola, Patrick Kapahnke and Matthias Klusch</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time"></td>
-            <td class="poster-session">
-                <b>Simplifying the Deployment of Big Data Solutions</b><br/>
-                <i>Ivan Ermilov and Axel-Cyrille Ngonga Ngomo</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time"></td>
-            <td class="poster-session">
-                <b>Adaptive Knowledge Portal for Education Domain</b><br/>
-                <i>Mikhail Navrotskiy</i>
             </td>
         </tr>
         <tr>
