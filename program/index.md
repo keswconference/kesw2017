@@ -3,6 +3,8 @@ layout: page
 title: The Program
 ---
 
+Best paper candidates are _emphasized_.
+
 <table class="program">
     <tbody>
         <tr>
@@ -20,17 +22,22 @@ title: The Program
              <td>Opening and Introduction</td>
         </tr>
         <tr>
+             <td></td>
+             <td>Prof. Jerzy Pejaś (Dean of Faculty of the Computer Science and Information Systems)<br/>
+             Przemysław Różewski, Christoph Lange (KESW Chairs)</td>
+        </tr>
+        <tr>
             <td class="chair"></td>
             <td class="chair"><b>Natural Language Processing (1)</b></td>
         </tr>
         <tr>
             <td class="time">09:15-11:00</td>
-            <td class="chair"><b>Chair</b>: TBA</td>
+            <td class="chair"><b>Chair</b>: Dmitry Mouromtsev</td>
         </tr>
         <tr>
             <td class="time">09:15-09:45</td>
             <td class="paper">
-                <b>Reducing the Degradation of Sentiment Analysis for Text Collections Spread over a Period of Time</b><br/>
+                <b><i>Reducing the Degradation of Sentiment Analysis for Text Collections Spread over a Period of Time</i></b><br/>
                 <i>Yuliya Rubtsova</i>
             </td>
         </tr>
@@ -119,7 +126,7 @@ title: The Program
         </tr>             
         <tr>
             <td class="chair"></td>
-            <td class="chair"><b>Ontologies II</b></td>
+            <td class="chair"><b>Scalable Data Access and Storage Solutions</b></td>
         </tr>
         <tr>
             <td class="time">16:00-17:30</td>
@@ -198,7 +205,7 @@ title: The Program
         </tr>
         <tr>
             <td class="chair"></td>
-            <td class="chair"><b>Data Management I</b></td>
+            <td class="chair"><b>Knowledge Representation and Reasoning</b></td>
         </tr>
         <tr>
             <td class="time">14:00-16:00</td>
@@ -207,7 +214,7 @@ title: The Program
         <tr>
             <td class="time">14:00-14:30</td>
             <td class="paper">
-                <b>Temporal Reasoning with Non-convex Intervals</b><br/>
+                <b><i>Temporal Reasoning with Non-convex Intervals</i></b><br/>
                 <i>Miguel Bento Alves, Carlos Viegas Damásio and Nuno Correia</i>
             </td>
         </tr>
@@ -229,7 +236,7 @@ title: The Program
             <td class="time">15:30-16:00</td>
             <td class="paper">
                 <b>Employing Link Differentiation in Linked Data Semantic Distance</b><br/>
-                <i>Sultan Alfarhood, Susan Gauch and Kevin Labille</b></i>
+                <i>Sultan Alfarhood, Susan Gauch and Kevin Labille</i>
             </td>
         </tr>
         <tr>
