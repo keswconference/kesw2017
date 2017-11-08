@@ -129,7 +129,7 @@ Best paper candidates are _emphasized_.
             <td class="time">15:15-15:30</td>
             <td class="short-paper">
                 <b>Investigating the Relationship between Tweeting Style and Popularity: The Case of US Presidential Election 2016</b><br/>
-                <i>Farideh Tavazoee, Claudio Conversano and Francesco Mola</i>
+                <i><b>Farideh Tavazoee</b>, Claudio Conversano and Francesco Mola</i>
             </td>
         </tr> 
         <tr>
