@@ -148,7 +148,7 @@ Best paper candidates are _emphasized_.
             <td class="time">16:00-16:30</td>
             <td class="paper">
                 <b>RDF Updates with Constraints</b><br/>
-                <i>Mirian Halfeld-Ferrari, Carmem S. Hara and Flavio R. Uber</i>
+                <i>Mirian Halfeld-Ferrari, Carmem S. Hara and <b>Flavio R. Uber</b></i>
             </td>
         </tr>
         <tr>
