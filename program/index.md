@@ -83,7 +83,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">14:00-15:30</td>
-            <td class="chair"><b>Chair</b>: TBA</td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
@@ -130,7 +130,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">16:00-17:30</td>
-            <td class="chair"><b>Chair</b>: TBA</td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
             <td class="time">16:00-16:30</td>
