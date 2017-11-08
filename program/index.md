@@ -38,28 +38,28 @@ Best paper candidates are _emphasized_.
             <td class="time">09:15-09:45</td>
             <td class="paper">
                 <b><i>Reducing the Degradation of Sentiment Analysis for Text Collections Spread over a Period of Time</i></b><br/>
-                <i>Yuliya Rubtsova</i>
+                <i><b>Yuliya Rubtsova</b></i>
             </td>
         </tr>
         <tr>
             <td class="time">09:45-10:00</td>
             <td class="paper">
                 <b>Searching for the Most Negative Opinions</b><br/>
-                <i>Sattam Almatarneh and Pablo Gamallo</i>
+                <i><b>Sattam Almatarneh</b> and Pablo Gamallo</i>
             </td>
         </tr>
         <tr>
             <td class="time">10:00-10:30</td>
             <td class="paper">
                 <b>Diversified Semantic Query Reformulation</b><br/>
-                <i>Rubén Manrique and Olga Mariño</i>
+                <i><b>Rubén Manrique</b> and Olga Mariño</i>
             </td>
         </tr>
         <tr>
             <td class="time">10:30-11:00</td>
             <td class="paper">
                 <b>RuThes Cloud: Towards a Multilevel Linguistic Linked Open Data Resource for Russian</b><br/>
-                <i>Alexander Kirillovich, Olga Nevzorova, Emil Gimadiev and Natalia Loukachevitch</i>
+                <i><b>Alexander Kirillovich</b>, Olga Nevzorova, Emil Gimadiev and Natalia Loukachevitch</i>
             </td>
         </tr>        
         <tr>
