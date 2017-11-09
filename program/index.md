@@ -227,14 +227,14 @@ Best paper candidates are _emphasized_.
             <td class="time">14:00-14:30</td>
             <td class="paper">
                 <b><i>Temporal Reasoning with Non-convex Intervals</i></b><br/>
-                <i>Miguel Bento Alves, Carlos Viegas Damásio and Nuno Correia</i>
+                <i><b>Miguel Bento Alves</b>, Carlos Viegas Damásio and Nuno Correia</i>
             </td>
         </tr>
         <tr>
             <td class="time">14:30-15:00</td>
             <td class="paper">
                 <b>More on the Data Complexity of Answering Ontology-Mediated Queries with a Covering Axiom</b><br/>
-                <i>Olga Gerasimova, Stanislav Kikot, Vladimir Podolskii and Michael Zakharyaschev</i>
+                <i><b>Olga Gerasimova</b>, Stanislav Kikot, Vladimir Podolskii and Michael Zakharyaschev</i>
             </td>
         </tr>
         <tr>
@@ -248,7 +248,7 @@ Best paper candidates are _emphasized_.
             <td class="time">15:30-16:00</td>
             <td class="paper">
                 <b>Employing Link Differentiation in Linked Data Semantic Distance</b><br/>
-                <i>Sultan Alfarhood, Susan Gauch and Kevin Labille</i>
+                <i><b>Sultan Alfarhood</b>, Susan Gauch and Kevin Labille</i>
             </td>
         </tr>
         <tr>
