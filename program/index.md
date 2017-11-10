@@ -303,7 +303,8 @@ To access the full text of the papers, please see [this separate page](/2017/11/
             <td class="time"></td>
             <td class="poster-session">
                 <b>Adaptive Knowledge Portal for Education Domain</b><br/>
-                <i>Mikhail Navrotskiy</i>
+                <i>Mikhail Navrotskiy</i><br/>
+                <a href="https://www.slideshare.net/MikhailNavrotskiy/adaptive-knowledge-portal-for-education-domain">Slides</a>
             </td>
         </tr>
         <tr>
