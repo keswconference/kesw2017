@@ -358,20 +358,20 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">09:30-10:30</td>
-            <td class="chair"><b>Chair</b>: Christoph Lange</td>
+            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
         </tr>
         <tr>
             <td class="time">09:30-10:00</td>
             <td class="paper">
                 <i><b>Ontology for Representing Human Needs</b></i><br/>
-                <i>Soheil Human, Florian Fahrenbach, Florian Kragulj and Vadim Savenkov</i>
+                <i><b>Soheil Human</b>, Florian Fahrenbach, Florian Kragulj and Vadim Savenkov</i>
             </td>
         </tr>
         <tr>
             <td class="time">10:00-10:30</td>
             <td class="paper">
                 <b>Knowledge Graph: Semantic Representation and Assessment of Innovation Ecosystems</b><br/>
-                <i>Klaus Ulmschneider and Birte Glimm</i>
+                <i><b>Klaus Ulmschneider</b> and Birte Glimm</i>
             </td>
         </tr>
         <tr>
