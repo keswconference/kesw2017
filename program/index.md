@@ -5,6 +5,7 @@ title: The Program
 
 Presenters are *highlighted*.
 Best paper candidates are _emphasized_.
+To access the full text of the papers, please see [this separate page](/2017/11/10/proceedings-online.html).
 
 <table class="program">
     <tbody>
