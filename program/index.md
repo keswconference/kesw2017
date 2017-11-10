@@ -358,7 +358,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">09:30-10:30</td>
-            <td class="chair"><b>Chair</b>: Christoph Lange</td>
+            <td class="chair"><b>Chair</b>: Dmitry Mouromtsev</td>
         </tr>
         <tr>
             <td class="time">09:30-10:00</td>
@@ -384,7 +384,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">11:00-11:45</td>
-            <td class="chair"><b>Chair</b>: Przemysław Różewski</td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
             <td class="time">11:00-11:30</td>
