@@ -358,7 +358,7 @@ Best paper candidates are _emphasized_.
         </tr>
         <tr>
             <td class="time">09:30-10:30</td>
-            <td class="chair"><b>Chair</b>: TBA</td>
+            <td class="chair"><b>Chair</b>: Christoph Lange</td>
         </tr>
         <tr>
             <td class="time">09:30-10:00</td>
