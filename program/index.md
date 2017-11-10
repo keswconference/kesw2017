@@ -397,7 +397,7 @@ Best paper candidates are _emphasized_.
             <td class="time">11:30-11:45</td>
             <td class="paper">
                 <b>Towards the Semantic MOOC: Extracting, Enriching and Interlinking E-Learning Data in Open edX Platform</b><br/>
-                <i>Dmitry Volchek, Aleksei Romanov and Dmitry Mouromtsev</i>
+                <i><b>Dmitry Volchek</b>, Aleksei Romanov and Dmitry Mouromtsev</i>
             </td>
         </tr>
         <tr>
@@ -412,14 +412,14 @@ Best paper candidates are _emphasized_.
             <td class="time">11:45-12:15</td>
             <td class="paper">
                 <b>DBpedia Entity Type Detection Using Entity Embeddings and N-Gram Models</b><br/>
-                <i>Hanqing Zhou, Amal Zouaq and Diana Inkpen</i>
+                <i><b>Hanqing Zhou</b>, Amal Zouaq and Diana Inkpen</i>
             </td>
         </tr>
         <tr>
             <td class="time">12:15-12:30</td>
             <td class="paper">
                 <b>Alignment: A Collaborative, System Aided, Interactive Ontology Matching Platform</b><br/>
-                <i>Sotirios Karampatakis, Charalampos Bratsas, Ondřej Zamazal, Panagiotis Marios Filippidis and Ioannis Antoniou</i>
+                <i><b>Sotirios Karampatakis</b>, Charalampos Bratsas, Ondřej Zamazal, Panagiotis Marios Filippidis and Ioannis Antoniou</i>
             </td>
         </tr>
         <tr>
