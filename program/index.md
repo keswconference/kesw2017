@@ -268,7 +268,8 @@ To access the full text of the papers, please see [this separate page](/2017/11/
             <td class="time"></td>
             <td class="poster-session">
                 <b><a href="../resources/posters/KESW_2017_paper_39.pdf">Applying Situation-Person-Driven Semantic Similarity On Location-Specific Cognitive Frames For Improving Location Prediction</a></b><br/>
-                <i>Antonios Karatzoglou and Michael Beigl</i>
+                <i>Antonios Karatzoglou and Michael Beigl</i><br/>
+                <a href="https://www.researchgate.net/publication/320980078_Applying_Situation-Person-Driven_Semantic_Similarity_On_Location-Specific_Cognitive_Frames_For_Improving_Location_Prediction">ResearchGate</a>
             </td>
         </tr>
         <tr>
