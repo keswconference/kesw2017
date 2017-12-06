@@ -290,6 +290,7 @@ To access the full text of the papers, please see [this separate page](/2017/11/
             <td class="poster-session">
                 <b><a href="../resources/posters/KESW_2017_paper_54.pdf">Discovery of potential collaboration networks from open knowledge sources</a></b><br/>
                 <i>Nelson Piedra, Janneth Chicaiza, Jorge Lopez-Vargas and Edmundo Tovar</i>
+                <a href="https://es.slideshare.net/jachicaiza/discovering-collaborative-networks-poster-kesw-2017">Poster</a>
             </td>
         </tr>
         <tr>
@@ -304,7 +305,7 @@ To access the full text of the papers, please see [this separate page](/2017/11/
             <td class="poster-session">
                 <b><a href="../resources/posters/KESW_2017_paper_77.pdf">Adaptive Knowledge Portal for Education Domain</a></b><br/>
                 <i>Mikhail Navrotskiy</i><br/>
-                <a href="https://www.slideshare.net/MikhailNavrotskiy/adaptive-knowledge-portal-for-education-domain">Slides</a>
+                <a href="https://www.slideshare.net/MikhailNavrotskiy/adaptive-knowledge-portal-for-education-domain">Poster</a>
             </td>
         </tr>
         <tr>
