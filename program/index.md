@@ -267,42 +267,42 @@ To access the full text of the papers, please see [this separate page](/2017/11/
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>Applying Situation-Person-Driven Semantic Similarity On Location-Specific Cognitive Frames For Improving Location Prediction</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_39.pdf">Applying Situation-Person-Driven Semantic Similarity On Location-Specific Cognitive Frames For Improving Location Prediction</a></b><br/>
                 <i>Antonios Karatzoglou and Michael Beigl</i>
             </td>
         </tr>
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>Using Word Embeddings in Linked Data Search</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_72.pdf">Using Word Embeddings in Linked Data Search</a></b><br/>
                 <i>Gerhard Wohlgenannt, Nikolay Klimov, Dmitry Mouromtsev, Daniil Razdyakonov, Dmitry Pavlov and Yury Emelyanov</i>
             </td>
         </tr>
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>DALICC project: Search and conflict detection using automatic reasoning and legal expert knowledge.</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_75.pdf">DALICC project: Search and conflict detection using automatic reasoning and legal expert knowledge.</a></b><br/>
                 <i>Victor Mireles, Simon Steyskal, Oleksandra Panasiuk, Kurt Moser, Markus Dörfler, Christoph Ellinger, Tassilo Pellegrini and Thomas Thurner</i>
             </td>
         </tr>
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>Discovery of potential collaboration networks from open knowledge sources</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_54.pdf">Discovery of potential collaboration networks from open knowledge sources</a></b><br/>
                 <i>Nelson Piedra, Janneth Chicaiza, Jorge Lopez-Vargas and Edmundo Tovar</i>
             </td>
         </tr>
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>Simplifying the Deployment of Big Data Solutions</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_76.pdf">Simplifying the Deployment of Big Data Solutions</a></b><br/>
                 <i>Ivan Ermilov and Axel-Cyrille Ngonga Ngomo</i>
             </td>
         </tr>
         <tr>
             <td class="time"></td>
             <td class="poster-session">
-                <b>Adaptive Knowledge Portal for Education Domain</b><br/>
+                <b><a href="../resources/posters/KESW_2017_paper_77.pdf">Adaptive Knowledge Portal for Education Domain</a></b><br/>
                 <i>Mikhail Navrotskiy</i><br/>
                 <a href="https://www.slideshare.net/MikhailNavrotskiy/adaptive-knowledge-portal-for-education-domain">Slides</a>
             </td>
